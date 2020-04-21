@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String name="111";
-        String name="111阿萨大";
+        String name1="111阿萨大";
     }
 }
