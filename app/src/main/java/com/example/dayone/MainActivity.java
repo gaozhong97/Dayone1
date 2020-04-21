@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String name="111";
         String name1="111阿萨大";
+        String namess="乱世";
     }
 }
